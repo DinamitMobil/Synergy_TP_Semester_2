@@ -15,4 +15,4 @@
 1. Экспортированная схема "Model.mwb".
 2. Экспортированный SQL скрипт "tourism.sql".
 
-![result](Task_3/Screenshot/Screenshot 2026-03-24 195303.png)
+![result](Screenshot/Screenshot 2026-03-24 195303.png)
